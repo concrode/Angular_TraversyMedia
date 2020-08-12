@@ -1,0 +1,23 @@
+#project:angular-crash-todolist
+
+#In project, src->app->app.module.ts
+This is basically the entry point to angular and the meeting place for all your components.
+
+"declarations" is where components is gonna go. Whenever a new component is created, it should be added here. The CLI allows us to generate components, if you use CLI, it automatically put your components in here you dont need to worry about.
+
+"imports" is where you put module
+
+"provider" is services
+
+
+#All components have .ts file
+
+
+#In app.component.js
+@Component is decorator which includes mata-data
+
+Property created in 
+export class AppComponent {
+  title = 'angular-crash-todolist';
+}
+is displayed in app.component.html
