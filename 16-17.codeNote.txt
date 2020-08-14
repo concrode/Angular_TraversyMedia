@@ -1,4 +1,4 @@
-#project:angular-crash-todolist
+#project:angular-crash-todolist. Find in:https://github.com/concrode/angular-crash-todolist.git
 
 #In project, src->app->app.module.ts
 This is basically the entry point to angular and the meeting place for all your components.
