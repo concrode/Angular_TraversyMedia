@@ -1,0 +1,4 @@
+#Code part for Angular_TraversyMedia is angular-crash-todolist. Find in:https://github.com/concrode/angular-crash-todolist.git
+
+#Tutorial URL: https://www.youtube.com/watch?v=Fdf5aTYRW0E
+
