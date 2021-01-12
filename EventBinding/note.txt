@@ -1,0 +1,5 @@
+#what is EventBinding
+reference:https://angular.io/guide/event-binding
+
+#Difference between (change) and (ngModelChange) 
+https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular#:~:text=Whereas%20ngModelChange%20is%20an%20Angular,It%20fires%20when%20ngModel%20changes.&text=The%20answer%20already%20lives%20above,outside%20of%20the%20Angular%20system.
