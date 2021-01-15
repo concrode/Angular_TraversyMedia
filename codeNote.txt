@@ -2,3 +2,5 @@
 
 #Tutorial URL: https://www.youtube.com/watch?v=Fdf5aTYRW0E
 
+#Notes in folders are mainly from: https://www.youtube.com/watch?v=mDoHtD1hI3I&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=3
+
